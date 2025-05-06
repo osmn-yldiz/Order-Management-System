@@ -1,5 +1,4 @@
-# InternProjectAlpha
-# Company Order Management System
+# Order Management System
 
 ## Project Description
 
